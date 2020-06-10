@@ -1,5 +1,5 @@
 [package]
-name = "udemy"
+name = "core_data_types"
 version = "0.1.0"
 authors = ["axayjha <akshayjha@live.in>"]
 edition = "2018"

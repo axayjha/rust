@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1_core_data_types.iml" filepath="$PROJECT_DIR$/1_core_data_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core_data_types.iml" filepath="$PROJECT_DIR$/core_data_types.iml" />
     </modules>
   </component>
 </project>
