@@ -4,3 +4,7 @@
 */*/target/
 *.exe
 *.pdb
+
+#Added by cargo
+
+/target
