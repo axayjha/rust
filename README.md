@@ -1,0 +1,2 @@
+# rust
+Rust practice codes
