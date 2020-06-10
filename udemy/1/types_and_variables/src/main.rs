@@ -4,6 +4,7 @@
 #![allow(unused_mut)]
 
 use std::mem;
+mod sh;
 
 fn core_data_types()
 {
@@ -94,8 +95,18 @@ fn scope_and_shadowing()
     // println!("outside, b = {}", b);
 }
 
+const MEANING_OF_LIFE:u8 = 48;
+// have to give type
+// no fixed address
+
+static Y:i32 = 123;
+// heap/global data with address
+
+static mut Z:i32 = 123;
 
 fn main() {
-    println!("Hello, world!");
-    operators();
+    unsafe {
+        println!("{}", Z);
+    }
+    sh::stack_and_heap();
 }
