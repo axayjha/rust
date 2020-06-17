@@ -1,0 +1,1 @@
+/Users/akshay/Documents/rust/udemy/11/odds_and_ends/Phrases/target/debug/libPhrases.rlib: /Users/akshay/Documents/rust/udemy/11/odds_and_ends/Phrases/src/greetings/english.rs /Users/akshay/Documents/rust/udemy/11/odds_and_ends/Phrases/src/lib.rs
